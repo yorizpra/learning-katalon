@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+learning - first test suite,Chrome 126.0.0.0,it's my first test suite,,30-06-2024 21:32:14,30-06-2024 21:32:58,44.280s,PASSED
+,,,,,,,
+Test Cases/WEB/learning - first test case,Chrome 126.0.0.0,it's my first test case,try a tag,30-06-2024 21:32:15,30-06-2024 21:32:58,43.727s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,30-06-2024 21:32:15,30-06-2024 21:32:20,4.111s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 126.0.0.0,,,30-06-2024 21:32:20,30-06-2024 21:32:49,29.105s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 126.0.0.0,,,30-06-2024 21:32:49,30-06-2024 21:32:50,1.651s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_1"")",Chrome 126.0.0.0,,,30-06-2024 21:32:50,30-06-2024 21:32:51,1.067s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_2"")",Chrome 126.0.0.0,,,30-06-2024 21:32:51,30-06-2024 21:32:52,0.626s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_3"")",Chrome 126.0.0.0,,,30-06-2024 21:32:52,30-06-2024 21:32:53,0.537s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_4"")",Chrome 126.0.0.0,,,30-06-2024 21:32:53,30-06-2024 21:32:53,0.573s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_5"")",Chrome 126.0.0.0,,,30-06-2024 21:32:53,30-06-2024 21:32:54,0.556s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_6"")",Chrome 126.0.0.0,,,30-06-2024 21:32:54,30-06-2024 21:32:54,0.575s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_7"")",Chrome 126.0.0.0,,,30-06-2024 21:32:54,30-06-2024 21:32:55,0.619s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_8"")",Chrome 126.0.0.0,,,30-06-2024 21:32:55,30-06-2024 21:32:55,0.550s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_9"")",Chrome 126.0.0.0,,,30-06-2024 21:32:55,30-06-2024 21:32:56,0.581s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_10"")",Chrome 126.0.0.0,,,30-06-2024 21:32:56,30-06-2024 21:32:57,0.612s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_11"")",Chrome 126.0.0.0,,,30-06-2024 21:32:57,30-06-2024 21:32:57,0.518s,PASSED
+"takeScreenshotAsCheckpoint(""current_viewport_12"")",Chrome 126.0.0.0,,,30-06-2024 21:32:57,30-06-2024 21:32:58,0.502s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,30-06-2024 21:32:58,30-06-2024 21:32:58,0.843s,PASSED
