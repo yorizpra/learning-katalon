@@ -23,5 +23,18 @@ WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
 
+WebUI.takeScreenshotAsCheckpoint('current_viewport_1')
+WebUI.takeScreenshotAsCheckpoint('current_viewport_2')
+WebUI.takeScreenshotAsCheckpoint('current_viewport_3')
+WebUI.takeScreenshotAsCheckpoint('current_viewport_4')
+WebUI.takeScreenshotAsCheckpoint('current_viewport_5')
+WebUI.takeScreenshotAsCheckpoint('current_viewport_6')
+WebUI.takeScreenshotAsCheckpoint('current_viewport_7')
+WebUI.takeScreenshotAsCheckpoint('current_viewport_8')
+WebUI.takeScreenshotAsCheckpoint('current_viewport_9')
+WebUI.takeScreenshotAsCheckpoint('current_viewport_10')
+WebUI.takeScreenshotAsCheckpoint('current_viewport_11')
+WebUI.takeScreenshotAsCheckpoint('current_viewport_12')
+
 WebUI.closeBrowser()
 
